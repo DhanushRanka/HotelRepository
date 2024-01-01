@@ -1,0 +1,5 @@
+server:
+  port:8085
+spring:
+  applicaiton:
+    name: CONFIG-SERVER
